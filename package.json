@@ -1,5 +1,5 @@
 {
-  "name": "test project",
+  "name": "test_project",
   "version": "1.0.0",
   "description": "Test Project",
   "main": "lib/index.js",
@@ -18,7 +18,10 @@
     "type": "git",
     "url": "git+https://github.com/grvpandey11/Test-Project.git"
   },
-  "keywords": ["Hello", "Greeter"],
+  "keywords": [
+    "Hello",
+    "Greeter"
+  ],
   "author": "Gaurav Pandey",
   "license": "ISC",
   "bugs": {
