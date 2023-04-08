@@ -1,6 +1,6 @@
 {
   "name": "test_project_gaurav",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test Project",
   "main": "lib/index.js",
   "scripts": {
